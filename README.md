@@ -33,7 +33,7 @@ The backend server is a simple [Flask](https://palletsprojects.com/p/flask/) wit
 $ #############################
 $ # clone and build the backend
 
-$ git clone git clone https://github.com/app-generator/flask-boilerplate.git
+$ git clone https://github.com/app-generator/flask-boilerplate.git
 $ cd flask-boilerplate
 $ pip install -r requirements.txt
 $ flask run --port 3000 # start the Flask server
