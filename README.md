@@ -10,7 +10,7 @@ Full-Stack [React](https://reactjs.org/) [Material Design](https://demos.creativ
 
 ## Product Features
 
-This full-stack app is built using a decoupled architecture, where the **React** Material Desifn frontend communicates with the [Flask](https://palletsprojects.com/p/flask/) backend through secure ajax call.
+This full-stack app is built using a decoupled architecture, where the **React** Material Design frontend communicates with the [Flask](https://palletsprojects.com/p/flask/) backend through secure ajax call.
 
  - [Flask](https://palletsprojects.com/p/flask/) backend
  - SQLite database, managed by Sequelize ORM. A simple Users tabel is provided.
